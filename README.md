@@ -48,5 +48,15 @@ Only look at the code once you've had a real attempt.
 | 28 | Set .discard(), .remove() & .pop() | [easy/28-set-discard-remove-pop](easy/28-set-discard-remove-pop) |
 | 29 | Set .union() Operation | [easy/29-set-union-operation](easy/29-set-union-operation) |
 | 30 | Set .intersection() Operation | [easy/30-set-intersection-operation](easy/30-set-intersection-operation) |
+| 31 | Set .difference() Operation | [easy/31-set-difference-operation](easy/31-set-difference-operation) |
+| 32 | Set .symmetric_difference() Operation | [easy/32-set-symmetric-difference-operation](easy/32-set-symmetric-difference-operation) |
+| 33 | Set Mutations | [easy/33-set-mutations](easy/33-set-mutations) |
+| 34 | The Captain's Room | [easy/34-the-captains-room](easy/34-the-captains-room) |
+| 35 | Check Subset | [easy/35-check-subset](easy/35-check-subset) |
+| 36 | Check Strict Superset | [easy/36-check-strict-superset](easy/36-check-strict-superset) |
+| 37 | Polar Coordinates | [easy/37-polar-coordinates](easy/37-polar-coordinates) |
+| 38 | Mod Divmod | [easy/38-mod-divmod](easy/38-mod-divmod) |
+| 39 | Power - Mod Power | [easy/39-power-mod-power](easy/39-power-mod-power) |
+| 40 | Integers Come In All Sizes | [easy/40-integers-come-in-all-sizes](easy/40-integers-come-in-all-sizes) |
 
 More questions (Medium/Hard, and other HackerRank tracks) will be added over time.
