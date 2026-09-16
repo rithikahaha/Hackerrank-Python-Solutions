@@ -28,5 +28,15 @@ Only look at the code once you've had a real attempt.
 | 08 | List Comprehensions | [easy/08-list-comprehensions](easy/08-list-comprehensions) |
 | 09 | Find the Runner-Up Score! | [easy/09-find-the-runner-up-score](easy/09-find-the-runner-up-score) |
 | 10 | Nested Lists | [easy/10-nested-lists](easy/10-nested-lists) |
+| 11 | Finding the Percentage | [easy/11-finding-the-percentage](easy/11-finding-the-percentage) |
+| 12 | Lists | [easy/12-lists](easy/12-lists) |
+| 13 | Tuples | [easy/13-tuples](easy/13-tuples) |
+| 14 | sWAP cASE | [easy/14-swap-case](easy/14-swap-case) |
+| 15 | String Split and Join | [easy/15-string-split-and-join](easy/15-string-split-and-join) |
+| 16 | What's Your Name? | [easy/16-whats-your-name](easy/16-whats-your-name) |
+| 17 | Mutations | [easy/17-mutations](easy/17-mutations) |
+| 18 | Find a String | [easy/18-find-a-string](easy/18-find-a-string) |
+| 19 | String Validators | [easy/19-string-validators](easy/19-string-validators) |
+| 20 | Capitalize! | [easy/20-capitalize](easy/20-capitalize) |
 
 More questions (Medium/Hard, and other HackerRank tracks) will be added over time.
