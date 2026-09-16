@@ -38,5 +38,15 @@ Only look at the code once you've had a real attempt.
 | 18 | Find a String | [easy/18-find-a-string](easy/18-find-a-string) |
 | 19 | String Validators | [easy/19-string-validators](easy/19-string-validators) |
 | 20 | Capitalize! | [easy/20-capitalize](easy/20-capitalize) |
+| 21 | Text Wrap | [easy/21-text-wrap](easy/21-text-wrap) |
+| 22 | Designer Door Mat | [easy/22-designer-door-mat](easy/22-designer-door-mat) |
+| 23 | String Formatting | [easy/23-string-formatting](easy/23-string-formatting) |
+| 24 | Alphabet Rangoli | [easy/24-alphabet-rangoli](easy/24-alphabet-rangoli) |
+| 25 | Introduction to Sets | [easy/25-introduction-to-sets](easy/25-introduction-to-sets) |
+| 26 | Symmetric Difference | [easy/26-symmetric-difference](easy/26-symmetric-difference) |
+| 27 | Set .add() | [easy/27-set-add](easy/27-set-add) |
+| 28 | Set .discard(), .remove() & .pop() | [easy/28-set-discard-remove-pop](easy/28-set-discard-remove-pop) |
+| 29 | Set .union() Operation | [easy/29-set-union-operation](easy/29-set-union-operation) |
+| 30 | Set .intersection() Operation | [easy/30-set-intersection-operation](easy/30-set-intersection-operation) |
 
 More questions (Medium/Hard, and other HackerRank tracks) will be added over time.
