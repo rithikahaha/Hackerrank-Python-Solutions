@@ -88,5 +88,16 @@ Only look at the code once you've had a real attempt.
 | 68 | Transpose and Flatten (Numpy) | [easy/68-numpy-transpose-and-flatten](easy/68-numpy-transpose-and-flatten) |
 | 69 | Concatenate (Numpy) | [easy/69-numpy-concatenate](easy/69-numpy-concatenate) |
 | 70 | Zeros and Ones (Numpy) | [easy/70-numpy-zeros-and-ones](easy/70-numpy-zeros-and-ones) |
+| 71 | Array Mathematics (Numpy) | [easy/71-numpy-array-mathematics](easy/71-numpy-array-mathematics) |
+| 72 | Floor, Ceil and Rint (Numpy) | [easy/72-numpy-floor-ceil-and-rint](easy/72-numpy-floor-ceil-and-rint) |
+| 73 | Sum and Prod (Numpy) | [easy/73-numpy-sum-and-prod](easy/73-numpy-sum-and-prod) |
+| 74 | Min and Max (Numpy) | [easy/74-numpy-min-and-max](easy/74-numpy-min-and-max) |
+| 75 | Mean, Var, and Std (Numpy) | [easy/75-numpy-mean-var-and-std](easy/75-numpy-mean-var-and-std) |
+| 76 | Dot and Cross (Numpy) | [easy/76-numpy-dot-and-cross](easy/76-numpy-dot-and-cross) |
+| 77 | Inner and Outer (Numpy) | [easy/77-numpy-inner-and-outer](easy/77-numpy-inner-and-outer) |
+| 78 | Polynomials (Numpy) | [easy/78-numpy-polynomials](easy/78-numpy-polynomials) |
+| 79 | Linear Algebra (Numpy) | [easy/79-numpy-linear-algebra](easy/79-numpy-linear-algebra) |
+| 80 | Eye and Identity (Numpy) | [easy/80-numpy-eye-and-identity](easy/80-numpy-eye-and-identity) |
 
-More questions (Medium/Hard, and other HackerRank tracks) will be added over time.
+This completes HackerRank's Python (Basic) Easy track. More questions
+(Medium/Hard, and other HackerRank tracks) will be added over time.
