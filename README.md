@@ -78,5 +78,15 @@ Only look at the code once you've had a real attempt.
 | 58 | Input() | [easy/58-input](easy/58-input) |
 | 59 | Python Evaluation | [easy/59-python-evaluation](easy/59-python-evaluation) |
 | 60 | Any or All | [easy/60-any-or-all](easy/60-any-or-all) |
+| 61 | Map and Lambda Function | [easy/61-map-and-lambda-function](easy/61-map-and-lambda-function) |
+| 62 | Detect Floating Point Number | [easy/62-detect-floating-point-number](easy/62-detect-floating-point-number) |
+| 63 | Standardize Mobile Number Using Decorators | [easy/63-standardize-mobile-number-using-decorators](easy/63-standardize-mobile-number-using-decorators) |
+| 64 | XML 1 - Find the Score | [easy/64-xml1-find-the-score](easy/64-xml1-find-the-score) |
+| 65 | XML2 - Find the Maximum Depth | [easy/65-xml2-find-the-maximum-depth](easy/65-xml2-find-the-maximum-depth) |
+| 66 | Arrays (Numpy) | [easy/66-numpy-arrays](easy/66-numpy-arrays) |
+| 67 | Shape and Reshape (Numpy) | [easy/67-numpy-shape-and-reshape](easy/67-numpy-shape-and-reshape) |
+| 68 | Transpose and Flatten (Numpy) | [easy/68-numpy-transpose-and-flatten](easy/68-numpy-transpose-and-flatten) |
+| 69 | Concatenate (Numpy) | [easy/69-numpy-concatenate](easy/69-numpy-concatenate) |
+| 70 | Zeros and Ones (Numpy) | [easy/70-numpy-zeros-and-ones](easy/70-numpy-zeros-and-ones) |
 
 More questions (Medium/Hard, and other HackerRank tracks) will be added over time.
