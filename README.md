@@ -68,5 +68,15 @@ Only look at the code once you've had a real attempt.
 | 48 | Compress the String! | [easy/48-compress-the-string](easy/48-compress-the-string) |
 | 49 | collections.Counter() | [easy/49-collections-counter](easy/49-collections-counter) |
 | 50 | DefaultDict Tutorial | [easy/50-defaultdict-tutorial](easy/50-defaultdict-tutorial) |
+| 51 | collections.namedtuple() | [easy/51-collections-namedtuple](easy/51-collections-namedtuple) |
+| 52 | collections.OrderedDict() | [easy/52-collections-ordereddict](easy/52-collections-ordereddict) |
+| 53 | Collections.deque() | [easy/53-collections-deque](easy/53-collections-deque) |
+| 54 | Calendar Module | [easy/54-calendar-module](easy/54-calendar-module) |
+| 55 | Exceptions | [easy/55-exceptions](easy/55-exceptions) |
+| 56 | Incorrect Regex | [easy/56-incorrect-regex](easy/56-incorrect-regex) |
+| 57 | Zipped! | [easy/57-zipped](easy/57-zipped) |
+| 58 | Input() | [easy/58-input](easy/58-input) |
+| 59 | Python Evaluation | [easy/59-python-evaluation](easy/59-python-evaluation) |
+| 60 | Any or All | [easy/60-any-or-all](easy/60-any-or-all) |
 
 More questions (Medium/Hard, and other HackerRank tracks) will be added over time.
