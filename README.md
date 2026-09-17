@@ -58,5 +58,15 @@ Only look at the code once you've had a real attempt.
 | 38 | Mod Divmod | [easy/38-mod-divmod](easy/38-mod-divmod) |
 | 39 | Power - Mod Power | [easy/39-power-mod-power](easy/39-power-mod-power) |
 | 40 | Integers Come In All Sizes | [easy/40-integers-come-in-all-sizes](easy/40-integers-come-in-all-sizes) |
+| 41 | Find Angle MBC | [easy/41-find-angle-mbc](easy/41-find-angle-mbc) |
+| 42 | Triangle Quest 2 | [easy/42-triangle-quest-2](easy/42-triangle-quest-2) |
+| 43 | Triangle Quest | [easy/43-triangle-quest](easy/43-triangle-quest) |
+| 44 | itertools.product() | [easy/44-itertools-product](easy/44-itertools-product) |
+| 45 | itertools.permutations() | [easy/45-itertools-permutations](easy/45-itertools-permutations) |
+| 46 | itertools.combinations() | [easy/46-itertools-combinations](easy/46-itertools-combinations) |
+| 47 | itertools.combinations_with_replacement() | [easy/47-itertools-combinations-with-replacement](easy/47-itertools-combinations-with-replacement) |
+| 48 | Compress the String! | [easy/48-compress-the-string](easy/48-compress-the-string) |
+| 49 | collections.Counter() | [easy/49-collections-counter](easy/49-collections-counter) |
+| 50 | DefaultDict Tutorial | [easy/50-defaultdict-tutorial](easy/50-defaultdict-tutorial) |
 
 More questions (Medium/Hard, and other HackerRank tracks) will be added over time.
