@@ -115,6 +115,16 @@ This completes HackerRank's Python (Basic) Easy track.
 | 08 | Maximize It! | [medium/08-maximize-it](medium/08-maximize-it) |
 | 09 | Classes: Dealing with Complex Numbers | [medium/09-classes-dealing-with-complex-numbers](medium/09-classes-dealing-with-complex-numbers) |
 | 10 | Validating Roman Numerals | [medium/10-validating-roman-numerals](medium/10-validating-roman-numerals) |
+| 11 | Validating Phone Numbers | [medium/11-validating-phone-numbers](medium/11-validating-phone-numbers) |
+| 12 | Validating and Parsing Email Addresses | [medium/12-validating-and-parsing-email-addresses](medium/12-validating-and-parsing-email-addresses) |
+| 13 | Hex Color Code | [medium/13-hex-color-code](medium/13-hex-color-code) |
+| 14 | Validating UID | [medium/14-validating-uid](medium/14-validating-uid) |
+| 15 | Validating Credit Card Numbers | [medium/15-validating-credit-card-numbers](medium/15-validating-credit-card-numbers) |
+| 16 | Validating Postal Codes | [medium/16-validating-postal-codes](medium/16-validating-postal-codes) |
+| 17 | HTML Parser - Part 1 | [medium/17-html-parser-part-1](medium/17-html-parser-part-1) |
+| 18 | HTML Parser - Part 2 | [medium/18-html-parser-part-2](medium/18-html-parser-part-2) |
+| 19 | Class 2 - Find the Torsional Angle | [medium/19-find-the-torsional-angle](medium/19-find-the-torsional-angle) |
+| 20 | Decorators 2 - Name Directory | [medium/20-decorators-2-name-directory](medium/20-decorators-2-name-directory) |
 
 More questions (more Medium, Hard, and other HackerRank tracks) will be
 added over time.
