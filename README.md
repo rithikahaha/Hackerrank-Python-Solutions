@@ -99,5 +99,22 @@ Only look at the code once you've had a real attempt.
 | 79 | Linear Algebra (Numpy) | [easy/79-numpy-linear-algebra](easy/79-numpy-linear-algebra) |
 | 80 | Eye and Identity (Numpy) | [easy/80-numpy-eye-and-identity](easy/80-numpy-eye-and-identity) |
 
-This completes HackerRank's Python (Basic) Easy track. More questions
-(Medium/Hard, and other HackerRank tracks) will be added over time.
+This completes HackerRank's Python (Basic) Easy track.
+
+## Medium
+
+| # | Problem | Folder |
+|---|---|---|
+| 01 | Word Order | [medium/01-word-order](medium/01-word-order) |
+| 02 | Company Logo | [medium/02-company-logo](medium/02-company-logo) |
+| 03 | Piling Up! | [medium/03-piling-up](medium/03-piling-up) |
+| 04 | Time Delta | [medium/04-time-delta](medium/04-time-delta) |
+| 05 | Athlete Sort | [medium/05-athlete-sort](medium/05-athlete-sort) |
+| 06 | ginortS | [medium/06-ginorts](medium/06-ginorts) |
+| 07 | Iterables and Iterators | [medium/07-iterables-and-iterators](medium/07-iterables-and-iterators) |
+| 08 | Maximize It! | [medium/08-maximize-it](medium/08-maximize-it) |
+| 09 | Classes: Dealing with Complex Numbers | [medium/09-classes-dealing-with-complex-numbers](medium/09-classes-dealing-with-complex-numbers) |
+| 10 | Validating Roman Numerals | [medium/10-validating-roman-numerals](medium/10-validating-roman-numerals) |
+
+More questions (more Medium, Hard, and other HackerRank tracks) will be
+added over time.
